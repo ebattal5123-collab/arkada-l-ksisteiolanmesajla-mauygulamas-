@@ -1,1 +1,1 @@
-# arkada-l-ksisteiolanmesajla-mauygulamas-
+# arkadaşlık-sistemine-sahip-mesajlaşma-uygulaması
